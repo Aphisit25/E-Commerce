@@ -21,18 +21,20 @@
 
 
 สำหรับผู้ใช้งาน
-1. Home page
+1. Login
 ![image](https://github.com/Aphisit25/E-Commerce/blob/main/picture/1.png)
 
-2. Menu
+2. Home page
 ![image](https://github.com/Aphisit25/E-Commerce/blob/main/picture/u1.png)
 
-3. Product details
+3. Menu
 ![image](https://github.com/Aphisit25/E-Commerce/blob/main/picture/u2.png)
 
-4. ตรวจสอบรายการสั่งซื้อ
+4. Product details
 ![image](https://github.com/Aphisit25/E-Commerce/blob/main/picture/u3.png)
 
-5. 
+5. Check order list
 ![image](https://github.com/Aphisit25/E-Commerce/blob/main/picture/u4.png)
+
+6. Confirm order
 ![image](https://github.com/Aphisit25/E-Commerce/blob/main/picture/u5.png)
